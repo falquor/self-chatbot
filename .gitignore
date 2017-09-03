@@ -1,2 +1,6 @@
 
 conv\.txt
+
+*.json
+
+*.npy
